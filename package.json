@@ -1,0 +1,25 @@
+{
+  "name": "p5_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "p5": "^0.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanminht/p5-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanminht/p5-starter/issues"
+  },
+  "homepage": "https://github.com/vanminht/p5-starter#readme"
+}
